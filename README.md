@@ -1,4 +1,4 @@
-# 💪 Persian LLM Dataset: GPT-4o (Demo)
+# Persian LLM Dataset: GPT-4o (Demo)
 
 Welcome to the **Persian LLM Dataset**, a growing multilingual dataset project designed to support Persian instruction-tuning for large language models.
 
